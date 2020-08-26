@@ -8,6 +8,7 @@
   ],
   "version": "0.0.1alpha",
   "author": "Angel 'Java' Lopez <webmaster@ajlopez.com> (http://www.ajlopez.com)",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "git://github.com/ajlopez/beljs.git"
